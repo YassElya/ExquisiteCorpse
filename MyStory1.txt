@@ -1,0 +1,2 @@
+MyStory1.txt
+Game programming is really interesting comparing to other classes.
